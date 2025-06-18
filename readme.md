@@ -68,7 +68,7 @@ These steps are required to be able to play with others
 
 ## Enjoy
 
-Start the game, complete `Prologue` and `Franklin and Lamar` and you should be able to play online. **Characters are temporary** so don't get your hopes up too much.
+Start the game, complete `Prologue` and `Franklin and Lamar` and you should be able to play online.
 
 ## Cheating
 
