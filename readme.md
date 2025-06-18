@@ -43,7 +43,7 @@ Download [rusty-psn](https://github.com/RainbowCookie32/rusty-psn)
 
 - Launch it
 - Look up updates with the game's serial number `NPUB31154`
-- Download all of the update(s) ([GTA:1.27](https://gtao.me/) is ONLY supported for `1.27`, **if you want `1.27` you need to download all previous patches as well**)
+- Download all of the update(s) ([GTA:1.27](https://gtao.me/) is ONLY supported for `1.27`, **you need to download all previous patches**)
 - Select the downloaded [RPCS3 Patch](https://gtao.me/imported_patch.yml) in File Explorer and drag it into RPCS3 > patches, make sure to enable it on your game.
 - Your game version should be `1.27` now and have the required patches enabled!
 
