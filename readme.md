@@ -43,15 +43,9 @@ Download [rusty-psn](https://github.com/RainbowCookie32/rusty-psn)
 
 - Launch it
 - Look up updates with the game's serial number `NPUB31154`
-- Download the update(s) (`1.06` recommended, pseudo-online works until `1.12`, **if you want `1.12` you need to download all previous patches as well**)
-- Select the downloaded patch(es) in File Explorer and drag it into RPCS3
-- Your game version should be `1.06` now
-
-## Downgrading
-If you installed the wrong update, say 1.27 but you want to be on 1.06 - 1.12 follow these steps:
-- Right click on the game entry and select Open Install Folder
-- Open the USRDIR Folder and delete the dlc folder inside of it
-- Follow the `Patch It` Section
+- Download all of the update(s) ([GTA:1.27](https://gtao.me/) is ONLY supported for `1.27`, **if you want `1.27` you need to download all previous patches as well**)
+- Select the downloaded [RPCS3 Patch](https://gtao.me/imported_patch.yml) in File Explorer and drag it into RPCS3 > patches, make sure to enable it on your game.
+- Your game version should be `1.27` now and have the required patches enabled!
 
 ## Custom Config (Credit to [@DakrFH](https://www.youtube.com/@DakrFH))
 
